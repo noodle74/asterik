@@ -1,4 +1,4 @@
 asterik
 =======
 
-Wed assests for Aserik
+Web assets for Aserik
